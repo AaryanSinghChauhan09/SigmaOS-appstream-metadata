@@ -3,7 +3,7 @@ name = "SigmaOS-appstream-metadata"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "appstream-metadata component"
+description = "AppStream Metadata"
 upstream = []
 
 [contract]
